@@ -1,0 +1,1 @@
+# JS-table-creator-by-while-loop
